@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v6.0",
+    "name": ".NETCoreApp,Version=v7.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v6.0": {
-      "BDTHPlugin/1.5.7": {
+    ".NETCoreApp,Version=v7.0": {
+      "BDTHPlugin/1.5.9": {
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
         },
@@ -18,7 +18,7 @@
     }
   },
   "libraries": {
-    "BDTHPlugin/1.5.7": {
+    "BDTHPlugin/1.5.9": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

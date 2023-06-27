@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Version>1.5.7</Version>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <Version>1.5.9</Version>
+    <TargetFramework>net7.0-windows</TargetFramework>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <Platforms>x64</Platforms>
@@ -10,11 +10,11 @@
     <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
     <PreserveCompilationContext>false</PreserveCompilationContext>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-    <OutputPath>E:\GitHubDesktop\DalamudPluginsDev\BDTHPlugin\Output</OutputPath>
+    <OutputPath>E:\GitHubDesktop\dohwadev\BDTHPlugin\bin</OutputPath>
   </PropertyGroup>
 
   <PropertyGroup>
-    <DalamudLibPath>E:\GitHubDesktop\Dalamud 7.3.5.0\bin\Release\</DalamudLibPath>
+    <DalamudLibPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\</DalamudLibPath>
   </PropertyGroup>
 
   <ItemGroup>
